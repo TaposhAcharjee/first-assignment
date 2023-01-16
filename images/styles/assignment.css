@@ -1,7 +1,199 @@
 *{
     margin:0;
-    padding: 0rem;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    box-sizing: border-box;
 }
-h1{
-    color: brown;
+header{
+    background:url(flat-lay-abstract-composition-with-innovation-elements.jpg);
+    width: 100%;
+    height: 100vh;
+    background-color: ;
+    background-repeat: no-repeat;
+    margin-bottom: 200px;
+    background-size: cover;
 }
+/* banner part */
+.banner{
+    text-align:end;
+    padding-top: 150px;
+    padding-right: 230px;
+    margin-bottom: ;
+    
+}
+.banner-title{
+    margin-top: ;
+    margin-bottom: ;
+}
+h2{
+    font-size: 65px;
+    font-weight: 700;
+    line-height:76px;
+    margin-bottom: 32px;
+    margin-top: 7px;
+}
+.banner-description{
+    font-size: 16px;
+    font-weight: 400;
+    color:#444343;
+    margin-bottom: 24px;
+}
+
+.banner-btn{
+    border:none;
+    padding: 21px 26px;
+    background-color: #F15B22;
+    color: white;
+    font: size 20px; 
+    font-weight:600;
+    border-radius: 5px;
+}
+/* Main part person Section left */
+
+.person-section{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin: 0 190px;
+}
+
+.failures-text-right{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.failures-description{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 25px;
+
+}
+
+.failures-list{
+    display:flex;
+    gap: 10px;
+    align-items: center;
+}
+
+/* plan Section */
+.plan-sections{
+    margin-top: 130px;
+    text-align: center;
+    al
+
+}
+
+.plans-items{
+    display: flex;
+    justify-content:7px;
+    text-align:center;
+    gap:40px;
+    margin-top:8px ;
+}
+
+.sections-title{
+    color: #151414; 
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+}
+
+.item-title{
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.item-description{
+    color: #737272;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.Watch-banner{
+    text-align:center;
+    padding-top: 150px;
+    padding-right: 780px;
+
+    
+}
+
+
+.positive-mindset{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align:center;
+    margin-top: -210px ;
+    margin-left: 340px;
+} 
+
+
+.b{
+    align-items: center;
+    border: rebeccapurple;
+    padding: 21px 26px ;
+    background-color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align:center;
+    color: #F15B22;
+   
+}
+
+/* footer part */
+.future{
+    color: white;
+}
+
+.footer-description{
+    color: white;
+}
+
+
+
+.footer-title{
+   
+    background-color: #151414;
+    width: 50%;
+    height: 25vh;
+    background-repeat: no-repeat;
+    margin-bottom:67px;
+    margin-left: 13%;
+    background-size: cover; 
+    margin-top: 98px;
+    align-items: right;  
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
